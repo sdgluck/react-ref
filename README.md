@@ -15,12 +15,6 @@ __API__
 npm install --save react-ref
 ```
 
-__CLI__
-
-```sh
-npm install --global react-ref
-```
-
 ## Import
 
 ```js
