@@ -9,8 +9,6 @@ Made with ❤ at [@outlandish](http://www.twitter.com/outlandish)
 
 ## Install
 
-__API__
-
 ```sh
 npm install --save react-ref
 ```
