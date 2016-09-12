@@ -1,0 +1,27 @@
+{
+  "name": "react-ref",
+  "version": "0.0.1",
+  "description": "Set reference to an element in React components",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "prepublish": "npm run lint"
+  },
+  "author": "Sam Gluck <sdgluck@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "ref",
+    "reference"
+  ],
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "standard": "^8.0.0-beta.5"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "dependencies": {
+    "react": "^15.3.1"
+  }
+}
