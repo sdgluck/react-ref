@@ -27,7 +27,7 @@ var ref = require('react-ref')
 
 ## Usage
 
-`ref(instance, name)`
+`ref(instance, name) : Function`
 
 - __instance__ {Object} React component
 - __name__ {String} Name of property to attach element reference
